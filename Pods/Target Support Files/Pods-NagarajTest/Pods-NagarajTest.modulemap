@@ -1,0 +1,6 @@
+framework module Pods_NagarajTest {
+  umbrella header "Pods-NagarajTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
